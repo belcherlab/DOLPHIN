@@ -50,8 +50,8 @@ In order to run the code, the main file ("CHADNIS.m") and all the associated fil
 
 
 
-**Demo/Instructions for use:**
-In the MATLAB command line:\ 
+**Demo/Instructions for use:**\
+In the MATLAB command line: \
 obj = CHADNIS(\<directory\>)\
 where \<directory\> is the full path to the folder which contains all the raw data collected, which needs to be processed.\
 Note: \<directory\> must also contain the background file, which is labeled with "\_bcgnd" in the filename (the blank background, collected under the same conditions of image acquistion, viz. the integration time, number of acquisition frames and normalization) as the data collection procedure.
